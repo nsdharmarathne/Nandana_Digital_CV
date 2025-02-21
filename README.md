@@ -1,7 +1,7 @@
 # Nandana Sri Dharmarathne
 
 **ICT Officer | Network Technician  | Help Desk Tecnician**  
-[LinkedIn](https://www.linkedin.com/in/ns-dharmarathne/) | [GitHub](https://github.com/nsdharmarathne)) | Email: nsdharmarathne@gmail.com | Phone: +94 71 345 3023 | Location: Kandy, Sri Lanka
+[LinkedIn](https://www.linkedin.com/in/ns-dharmarathne/) | [GitHub](https://github.com/nsdharmarathne) | Email: nsdharmarathne@gmail.com | Phone: +94 71 345 3023 | Location: Kandy, Sri Lanka
 
 ---
 
