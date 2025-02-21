@@ -6,8 +6,9 @@
 ---
 
 ## 🏆 Summary
-
+<p align="justify">
 Experienced ICT professional with over a decade of expertise in network engineering, cybersecurity, and IT support. Adept at troubleshooting complex systems, optimizing network performance, and implementing robust security measures. Passionate about continuous learning and currently preparing for further studies in Finland.
+</p>
 
 ---
 
