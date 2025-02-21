@@ -18,7 +18,6 @@ Experienced ICT professional with over a decade of expertise in network engineer
 - **CCNA Certification** – Vocational Training Authority
 - **Certifications from Cisco Networking Academy**: Introduction to Cybersecurity, Cisco Essentials, English for IT 1
 - **Microsoft Certifications**: MS2772, MS2773
-- **SLIIT Coursework** – Various ICT-related subjects
 
 ---
 
