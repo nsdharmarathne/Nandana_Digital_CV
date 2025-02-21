@@ -41,14 +41,6 @@ Experienced ICT professional with over a decade of expertise in network engineer
 
 ---
 
-## 📜 Projects
-
-- **Network Security Implementation** – Designed and deployed secure network policies to mitigate cyber threats.
-- **IT Infrastructure Upgrade** – Led a project to modernize IT infrastructure, improving system performance.
-- **Employee IT Training Program** – Developed and conducted IT training sessions for staff.
-
----
-
 ## 📚 Certifications & Training
 
 - **Cisco CCNA Certification**
